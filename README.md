@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Salutations, I'm awry!
-👩🏻‍💻 Aspiring Programmer who hast much to learn in tech;<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv);<br/>
-🎨 Recording logs on my latest projects. [YouTube](https://www.youtube.com/c/MagdelineHuang);<br/>
+👩🏻‍💻 Aspiring All-Rounder Programmer who hast much to learn in tech;<br/>
+👩🏻‍🎓 Studying [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) and more;<br/>
+🎨 Recording logs on my latest projects -> [YouTube](https://www.youtube.com/c/MagdelineHuang);<br/>
 💭 Currently learning about [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
